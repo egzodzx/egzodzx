@@ -1,123 +1,71 @@
-<!-- BANNER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="banner"/>
-</div>
+<div align="center">  <img src="assets/banner-1.jpg" width="100%" alt="egzodz banner"/>  <br/>egzodz
 
-<!-- TITLE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
-</div>
+Developer • Creator • Minecraft Plugin Development
 
-<br/>
+  <p>
+    <img src="https://img.shields.io/badge/Developer-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Minecraft-Plugin%20Developer-111111?style=for-the-badge&logo=minecraft&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Open%20Source-111111?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  </p>  <p>
+    Building projects, developing tools and exploring new technologies.
+  </p></div>---
 
-<!-- CONTACT -->
-<div align="center">
+"01" — About Me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://SEU_PORTFOLIO.com)
+name: egzodz
+role: Developer & Creator
+focus:
+  - Minecraft Plugin Development
+  - Software Development
+  - Discord Bots
+  - Automation
+  - Open Source Projects
 
-</div>
+currently_learning:
+  - Java
+  - Python
+  - JavaScript
 
-<br/>
+goal: Build useful, optimized and creative projects.
 
-<div align="center">
+I enjoy creating projects, experimenting with new technologies and developing tools that combine performance, functionality and clean code.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ladymnria&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-**Full-Stack Developer**
-
-> *"We are born of the blood, made men by the blood, undone by the blood."*
-
-Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
-
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
-
-<img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
-
-<br clear="right"/>
-
-
-◈  Class     →  Full-Stack Developer
-◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
+My main focus is Minecraft plugin development, especially the Paper and Folia ecosystems.
 
 ---
 
-## Technologies
+"02" — Technologies & Tools
 
-<div align="center">
+<div align="center">Programming Languages
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=c9a84c)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=c9a84c)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=c9a84c)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />Development Tools
 
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark" />Minecraft Ecosystem
 
----
+<img src="https://img.shields.io/badge/Minecraft-Development-111111?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Paper-Plugins-111111?style=for-the-badge&logo=papermc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Folia-Development-111111?style=for-the-badge&logo=papermc&logoColor=white"/></div>---
 
-## Statistics
+"03" — Featured Projects
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ladymnria&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
-
-<br/><br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ladymnria&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladymnria&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
-
-</div>
+Project| Description| Status
+zLogin| Minecraft authentication plugin| Development
+zAnti| Discord bot and management tools| Development
+zShop| Minecraft shop system| Development
+zSell| Minecraft selling system| Development
 
 ---
 
-## 📜 Contribution Graph
+<div align="center">  <img src="assets/banner-2.jpg" width="100%" alt="egzodz second banner"/></div>"04" — GitHub Statistics
 
-<div align="center">
+<div align="center">  <img height="165" src="https://github-readme-stats.vercel.app/api?username=egzodz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9"/>  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egzodz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"/>  <br/>  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=egzodz&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=true"/></div>---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ladymnria&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/ladymnria)
+"05" — Philosophy
 
-</div>
+«Good software is built with consistency, creativity and attention to detail.»
 
----
+<div align="center">Always learning. Always building.
 
-## 🕯️ Bonfires Lit — Education
-
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | SEU CURSO 1 | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ✅ Complete |
-| ◈ | SEU CURSO 4 | ✅ Complete |
-
----
-
-## 🗡️ Featured Projects
-
-<div align="center">
-
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=ladymnria&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/ladymnria/SEU_REPO)
-
-</div>
-
----
-
-<div align="center">
-
-*† Seek Paleblood to transcend the Hunt †*
+  <br/><sub>Designed & developed by egzodz</sub>
 
 </div>
