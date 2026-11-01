@@ -1,108 +1,71 @@
+<div align="center">  <img src="assets/banner-1.jpg" width="100%" alt="egzodz banner"/>  <br/>egzodz
 
-<!-- ==================== BANNER ==================== -->
+Developer • Creator • Minecraft Plugin Development
 
-<div align="center">
-  <img src="assets/banner-1.jpg" width="100%" alt="egzodz banner"/>
-</div>
+  <p>
+    <img src="https://img.shields.io/badge/Developer-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Minecraft-Plugin%20Developer-111111?style=for-the-badge&logo=minecraft&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Open%20Source-111111?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  </p>  <p>
+    Building projects, developing tools and exploring new technologies.
+  </p></div>---
 
-<br/>
+"01" — About Me
 
-<!-- ==================== INTRO ==================== -->
+name: egzodz
+role: Developer & Creator
+focus:
+  - Minecraft Plugin Development
+  - Software Development
+  - Discord Bots
+  - Automation
+  - Open Source Projects
 
-<div align="center">
+currently_learning:
+  - Java
+  - Python
+  - JavaScript
 
-# egzodz
+goal: Build useful, optimized and creative projects.
 
-**Developer • Creator • Minecraft Plugin Development**
+I enjoy creating projects, experimenting with new technologies and developing tools that combine performance, functionality and clean code.
 
-*Building ideas into something real.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/egzodz)
-[![Profile Views](https://komarev.com/ghpvc/?username=egzodz&style=flat-square&color=555555&label=PROFILE+VIEWS)](https://github.com/egzodz)
-
-</div>
-
----
-
-<!-- ==================== ABOUT ==================== -->
-
-## About
-
-I'm an independent developer interested in programming, technology and creating useful projects.
-
-Currently focused on Minecraft plugin development, especially **Paper** and **Folia**.
-
-I enjoy experimenting, learning new technologies and turning ideas into working projects.
-
-<br/>
-
-<div align="center">
-  <img src="assets/banner-2.jpg" width="100%" alt="Landscape banner"/>
-</div>
+My main focus is Minecraft plugin development, especially the Paper and Folia ecosystems.
 
 ---
 
-<!-- ==================== TECHNOLOGIES ==================== -->
+"02" — Technologies & Tools
 
-## Technologies & Tools
+<div align="center">Programming Languages
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />Development Tools
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,nodejs,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark" />Minecraft Ecosystem
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Minecraft-Development-111111?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Paper-Plugins-111111?style=for-the-badge&logo=papermc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Folia-Development-111111?style=for-the-badge&logo=papermc&logoColor=white"/></div>---
 
-![Paper](https://img.shields.io/badge/Paper-181818?style=flat-square)
-![Folia](https://img.shields.io/badge/Folia-181818?style=flat-square)
-![Minecraft](https://img.shields.io/badge/Minecraft-181818?style=flat-square)
+"03" — Featured Projects
 
-</div>
-
----
-
-<!-- ==================== PROJECTS ==================== -->
-
-## Selected Projects
-
-<div align="center">
-
-| Project | Description |
-|:--|:--|
-| **zlogin** | Authentication and login system |
-| **zanti bot** | Defensive protection against malicious bots |
-| **zshop** | Economy and shop system |
-| **zsell** | Buying and selling system |
-
-</div>
+Project| Description| Status
+zLogin| Minecraft authentication plugin| Development
+zAnti| Discord bot and management tools| Development
+zShop| Minecraft shop system| Development
+zSell| Minecraft selling system| Development
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
+<div align="center">  <img src="assets/banner-2.jpg" width="100%" alt="egzodz second banner"/></div>"04" — GitHub Statistics
 
-## GitHub Activity
+<div align="center">  <img height="165" src="https://github-readme-stats.vercel.app/api?username=egzodz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9"/>  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egzodz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"/>  <br/>  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=egzodz&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=true"/></div>---
 
-<div align="center">
+"05" — Philosophy
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=egzodz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&include_all_commits=true" />
+«Good software is built with consistency, creativity and attention to detail.»
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egzodz&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=999999" />
+<div align="center">Always learning. Always building.
 
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=egzodz&bg_color=0D1117&color=FFFFFF&line=777777&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-*Always learning. Always building.*
-
-**egzodz**
+  <br/><sub>Designed & developed by egzodz</sub>
 
 </div>
